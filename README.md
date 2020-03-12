@@ -32,8 +32,8 @@ An example of Django project with basic user functionality.
 ### Clone the project
 
 ```
-git clone https://github.com/egorsmkv/simple-django-login-and-register
-cd simple-django-login-and-register
+git clone https://github.com/danielovieda/django-login-register
+cd django-login-register
 ```
 
 ### Install dependencies & activate virtualenv
