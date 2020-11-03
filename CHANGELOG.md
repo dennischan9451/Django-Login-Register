@@ -14,7 +14,7 @@
 
 ## v2.11
 
-- Added the "remember me" checkbox to the log in page
+- Added the "remember me" checkbox to the login page
 - Added the username recovering
 - Code improvements
 

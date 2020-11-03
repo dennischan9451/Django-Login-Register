@@ -46,14 +46,14 @@
                     <a class="nav-link" href="{% url 'accounts:change_email' %}">{% trans 'Change email' %}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{% url 'accounts:log_out' %}">{% trans 'Log out' %}</a>
+                    <a class="nav-link" href="{% url 'accounts:log_out' %}">{% trans 'Logout' %}</a>
                 </li>
             {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{% url 'accounts:log_in' %}">{% trans 'Log in' %}</a>
+                    <a class="nav-link" href="{% url 'accounts:log_in' %}">{% trans 'Login' %}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{% url 'accounts:sign_up' %}">{% trans 'Create an account' %}</a>
+                    <a class="nav-link" href="{% url 'accounts:sign_up' %}">{% trans 'Register' %}</a>
                 </li>
             {% endif %}
         </ul>

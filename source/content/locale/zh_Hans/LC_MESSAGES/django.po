@@ -92,7 +92,7 @@ msgstr "您收到此电子邮件是因为您要求为您的用户帐户重置密
 msgid "Please, go to the following page and choose a new password:"
 msgstr "请转到以下页面并选择一个新密码："
 
-msgid "Log in"
+msgid "Login"
 msgstr "登录"
 
 msgid "Forgot your password?"
@@ -110,7 +110,7 @@ msgstr "已经登出"
 msgid "Thanks for spending some quality time with the site today."
 msgstr "感谢您访问本网站。"
 
-msgid "Log in again"
+msgid "Login again"
 msgstr "再次登录"
 
 msgid "Change email"
@@ -152,7 +152,7 @@ msgid ""
 msgstr ""
 "如果您没有收到电子邮件，请确保您输入了您注册的地址，并检查垃圾邮件文件夹。"
 
-msgid "Create an account"
+msgid "Register"
 msgstr "创建账号"
 
 msgid "Create"
@@ -195,7 +195,7 @@ msgstr "您的用户名已成功发送至您的电子邮件。"
 msgid "Your password was changed."
 msgstr "你的密码已被修改。"
 
-msgid "Your password has been set. You may go ahead and log in now."
+msgid "Your password has been set. You may go ahead and login now."
 msgstr "你的密码已经重设。现在可以继续登录。"
 
 msgid "English"
@@ -210,7 +210,7 @@ msgstr "简体中文"
 msgid "Home"
 msgstr "首页"
 
-msgid "Log out"
+msgid "Logout"
 msgstr "登出"
 
 msgid "Change language"

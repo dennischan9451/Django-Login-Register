@@ -1,31 +1,20 @@
-# Django Login and Registration Example
+# Django Login and Registration Example Using Bootstrap4
 
-An example of Django project with basic user functionality.
+## Features
 
-## Screenshots
-
-| Log In | Create an account | Authorized page |
-| -------|--------------|-----------------|
-| <img src="./screenshots/login.png" width="200"> | <img src="./screenshots/create_an_account.png" width="200"> | <img src="./screenshots/authorized_page.png" width="200"> |
-
-## Functionality
-
-- Log in
+- Login
     - via username & password
     - via email & password
     - via email or username & password
     - with a remember me checkbox (optional)
-- Create an account
-- Log out
+- Register
+- Logout
 - Profile activation via email
 - Reset password
-- Remind a username
 - Resend an activation code
 - Change password
-- Change email
 - Change profile
-- Multilingual: English, Russian, and Simplified Chinese
-
+- Multilingual
 
 ## Installing
 

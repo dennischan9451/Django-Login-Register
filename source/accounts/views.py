@@ -315,7 +315,7 @@ class RestorePasswordConfirmView(BasePasswordResetConfirmView):
         # Change the password
         form.save()
 
-        messages.success(self.request, _('Your password has been set. You may go ahead and log in now.'))
+        messages.success(self.request, _('Your password has been set. You may go ahead and login now.'))
 
         return redirect('accounts:log_in')
 

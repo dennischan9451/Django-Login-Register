@@ -93,7 +93,7 @@ msgstr ""
 msgid "Please, go to the following page and choose a new password:"
 msgstr "Пожалуйста, перейдите на указанную страницу и выберите новый пароль:"
 
-msgid "Log in"
+msgid "Login"
 msgstr "Вход"
 
 msgid "Forgot your password?"
@@ -111,7 +111,7 @@ msgstr "Выход"
 msgid "Thanks for spending some quality time with the site today."
 msgstr "Спасибо, что выделили время на посещение сайта сегодня."
 
-msgid "Log in again"
+msgid "Login again"
 msgstr "Войти повторно"
 
 msgid "Change email"
@@ -161,7 +161,7 @@ msgstr ""
 "удостоверьтесь, что введенная почта является той, которая использовалась при "
 "создании учётной записи."
 
-msgid "Create an account"
+msgid "Register"
 msgstr "Создать учётную запись"
 
 msgid "Create"
@@ -209,7 +209,7 @@ msgstr ""
 msgid "Your password was changed."
 msgstr "Ваш пароль изменен."
 
-msgid "Your password has been set. You may go ahead and log in now."
+msgid "Your password has been set. You may go ahead and login now."
 msgstr "Ваш пароль изменен. Теперь вы можете войти."
 
 msgid "English"
@@ -224,7 +224,7 @@ msgstr "Китайский (упрощённый)"
 msgid "Home"
 msgstr "Главная"
 
-msgid "Log out"
+msgid "Logout"
 msgstr "Выйти"
 
 msgid "Change language"
