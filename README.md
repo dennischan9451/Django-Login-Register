@@ -1,4 +1,4 @@
-# Django Login and Registration Example Using Bootstrap4
+# Django Login and Registration Demo Using Bootstrap4
 
 ## Features
 
